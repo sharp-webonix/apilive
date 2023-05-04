@@ -1,0 +1,20 @@
+[
+    {
+        "name": "HP laptop1",
+        "price":40000,
+        "featured":true,
+        "company": "HP"
+    },
+    {
+        "name": "lenovo laptop2",
+        "price":40000,
+        "featured":true,
+        "company": "Lenovo"
+    },
+    {
+        "name": "HP laptop3",
+        "price":40000,
+        "featured":true,
+        "company": "Lenovo"
+    }
+]
